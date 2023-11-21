@@ -10,7 +10,7 @@
 - Create new folder `wish` in internal storage
 <img src="https://telegra.ph/file/af146e9f311873bc91107.jpg" width=150px>
 
-- Move script and tracing system file with same location folder `wish`
+- Move script and tracing system file with same location in folder `wish`
 
 - run script
 
